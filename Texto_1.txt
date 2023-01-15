@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 y ahora que???
-=======
 agregue comentario
->>>>>>> a236547bc81e6de642484a59fbc59d6be7bb5ee0
